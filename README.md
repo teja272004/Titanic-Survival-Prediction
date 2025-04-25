@@ -47,13 +47,4 @@ The objective of this project is to create a well-trained machine learning model
 
 The Logistic Regression and Random Forest models both performed excellently on the Titanic survival prediction task. While Logistic Regression offers simplicity and interpretability, Random Forest demonstrated better handling of complex feature interactions. The models achieved good generalization during cross-validation and are capable of making accurate survival predictions.
 
-## Repository Structure
 
-
-## How to Run the Project
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/titanic-survival-prediction.git
-jupyter notebook notebooks/titanic_model_training.ipynb
